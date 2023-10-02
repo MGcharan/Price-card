@@ -106,7 +106,7 @@
   }
 
   .card-body:hover{
-    background: linear-gradient(to left,lightgreen,black);
+    background: linear-gradient(to left,rgb(183, 215, 222),black);
     border-radius: 1rem;
     outline: none;
 
